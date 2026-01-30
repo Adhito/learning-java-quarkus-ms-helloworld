@@ -2,11 +2,30 @@
 
 A simple REST microservice built with Quarkus framework.
 
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Project Structure](#project-structure)
+- [Running the Application](#running-the-application)
+  - [Development Mode](#development-mode-with-hot-reload)
+  - [Production Build](#production-build)
+  - [Docker](#docker)
+    - [Native Image](#native-image-recommended)
+    - [JVM Image](#jvm-image)
+    - [Common Docker Commands](#common-docker-commands)
+- [API Endpoints](#api-endpoints)
+- [Example Requests](#example-requests)
+- [Running Tests](#running-tests)
+- [Configuration](#configuration)
+- [Tech Stack](#tech-stack)
+
+---
+
 ## Requirements
 
 - Java 21+
 - Maven 3.8+
-
+Dev
 ## Project Structure
 
 ```
